@@ -39,7 +39,7 @@ object RunPackageSpeechApp {
       AndrSpeechModules.App,
       manifest
     )({ f =>
-//      StdIn.readLine()
+      StdIn.readLine()
     })
   }
 
